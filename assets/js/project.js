@@ -17,7 +17,7 @@ const projects = [
 ];
 
 // function for rendering project cards data
-const showCards = () => {
+/*const showCards = () => {
   let output = "";
   projects.forEach(({ title, cardImage, Previewlink, Githublink }) => {
     output += `       
@@ -40,7 +40,7 @@ const showCards = () => {
         </div>`;
   });
   projectcards.innerHTML = output;
-};
+};*/
 document.addEventListener("DOMContentLoaded", showCards);
 
 function myFunction() {
