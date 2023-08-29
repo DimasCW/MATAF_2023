@@ -5,16 +5,17 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   
-  {
+    {
     title: "Universitas Muhammadiyah Yogyakarta<br>( Bachelor's degree, Information Technology )<br>2018 - 2022",
-    cardImage: "https://th.bing.com/th/id/OIP.z6hhYlSkv0H5WYkB23PfngHaEK?w=316&h=180&c=7&r=0&o=5&pid=1.7",
+    cardImage: "https://joss.co.id/data/uploads/2019/10/universitas-muhammadiyah-yogyakarta-akreditasi-a.jpg",
     
   },
   {
     title: "SMK Karya Bhakti 2 Bekasi<br>( Vocation High School - Information Technology )<br>2018 - 2022",
-    cardImage: "https://th.bing.com/th/id/OIP.11Y9D6a69HwAsNdCEGqtkgHaEJ?w=290&h=180&c=7&r=0&o=5&pid=1.7",
+    cardImage: "https://foto.data.kemdikbud.go.id/getImage/20229779/3.jpg",
     
   },
+
 ];
 
 const experience = [
