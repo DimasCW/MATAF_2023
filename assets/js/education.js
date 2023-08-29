@@ -12,7 +12,7 @@ const moocscards = [
   },
   {
     title: "SMK Karya Bhakti 2 Bekasi<br>( Vocation High School - Information Technology )<br>2018 - 2022",
-    cardImage: "https://img2.pngdownload.id/20180403/bwe/kisspng-building-school-escuela-computer-icons-building-silhouette-5ac3ac0504f3e9.4574645015227729970203.jpg",
+    cardImage: "https://w7.pngwing.com/pngs/614/89/png-transparent-national-secondary-school-building-education-school-building-text-logo.png",
     
   },
 
