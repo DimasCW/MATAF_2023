@@ -6,21 +6,15 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   
   {
-    title: "Universitas Gadjah Mada<br>( Computer and Information System )<br>2011 - 2014",
-    cardImage: "assets/images/education-page/ugm.png",
+    title: "Universitas Muhammadiyah Yogyakarta<br>( Bachelor's degree, Information Technology )<br>2018 - 2022",
+    cardImage: "https://th.bing.com/th/id/OIP.z6hhYlSkv0H5WYkB23PfngHaEK?w=316&h=180&c=7&r=0&o=5&pid=1.7",
     
   },
   {
-    title: "SMA Negeri 7 Yogayakarta<br>( Senior High School - Natural Sciences )<br>2008 - 2011",
-    cardImage: "assets/images/education-page/sma7.png",
+    title: "SMK Karya Bhakti 2 Bekasi<br>( Vocation High School - Information Technology )<br>2018 - 2022",
+    cardImage: "https://th.bing.com/th/id/OIP.11Y9D6a69HwAsNdCEGqtkgHaEJ?w=290&h=180&c=7&r=0&o=5&pid=1.7",
     
   },
-  {
-    title: "SMP Negeri 2 Yogyakarta<br>( Junior High School )<br>2005 - 2008",
-    cardImage: "assets/images/education-page/smp2.png",
-    
-  },
-  
 ];
 
 const experience = [
