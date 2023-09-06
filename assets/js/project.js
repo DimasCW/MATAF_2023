@@ -5,13 +5,61 @@ const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
 const projects = [
-  {
-    title: "AR Logo MATAF TI",
-    cardImage: "assets/images/AR-page/Logo.jpg",
+   {
+    title: "AR Logo CYBER SPARTAN",
+    cardImage: "assets/images/AR-page/spartan.jpg",
     description: "Click on the image to see the project",
     tagimg: "",
-    Previewlink: "https://www.instagram.com/ar/478103523916690/",
-    Githublink: "https://www.instagram.com/ar/478103523916690/",
+   // Previewlink: "https://www.instagram.com/ar/478103523916690/",
+    //Githublink: "https://www.instagram.com/ar/478103523916690/",
+  },
+  {
+    title: "AR Logo KMTI",
+    cardImage: "assets/images/AR-page/kmti.jpg",
+    description: "Click on the image to see the project",
+    tagimg: "",
+   // Previewlink: "https://www.instagram.com/ar/478103523916690/",
+    //Githublink: "https://www.instagram.com/ar/478103523916690/",
+  },
+  {
+    title: "AR Logo MATAF TI 2023",
+    cardImage: "assets/images/AR-page/mataf.jpg",
+    description: "Click on the image to see the project",
+    tagimg: "",
+   // Previewlink: "https://www.instagram.com/ar/478103523916690/",
+    //Githublink: "https://www.instagram.com/ar/478103523916690/",
+  },
+  {
+    title: "Hologram",
+    cardImage: "assets/images/AR-page/holo1.jpg",
+    description: "Click on the image to see the project",
+    tagimg: "",
+   // Previewlink: "https://www.instagram.com/ar/478103523916690/",
+    //Githublink: "https://www.instagram.com/ar/478103523916690/",
+  },
+  {
+    title: "Hologram",
+    cardImage: "assets/images/AR-page/holo2.jpg",
+    description: "Click on the image to see the project",
+    tagimg: "",
+   // Previewlink: "https://www.instagram.com/ar/478103523916690/",
+    //Githublink: "https://www.instagram.com/ar/478103523916690/",
+  },
+  {
+    title: "Hologram",
+    cardImage: "assets/images/AR-page/holo3.jpg",
+    description: "Click on the image to see the project",
+    tagimg: "",
+   // Previewlink: "https://www.instagram.com/ar/478103523916690/",
+    //Githublink: "https://www.instagram.com/ar/478103523916690/",
+  },
+  {
+    title: "Hologram",
+    cardImage: "assets/images/AR-page/holo4.jpg",
+    description: "Click on the image to see the project",
+    tagimg: "",
+   // Previewlink: "https://www.instagram.com/ar/478103523916690/",
+    //Githublink: "https://www.instagram.com/ar/478103523916690/",
   },
 
 ];
